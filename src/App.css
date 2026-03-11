@@ -1,0 +1,43 @@
+body {
+  font-family: arial;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+div {
+  margin: 10px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  background-color: blue;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+h2 {
+  color: black;
+}
+
+form {
+  background-color: white;
+  padding: 20px;
+  max-width: 400px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0;
+}
+
+label {
+  font-weight: bold;
+}
+
+p {
+  margin: 0;
+  font-size: 14px;
+}
